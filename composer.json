@@ -1,0 +1,30 @@
+{
+  "name": "silver-dragon/cms",
+  "type": "silverstripe-module",
+  "description": "The SilverStripe Content Management System",
+  "homepage": "http://silverdragon.io",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "silverstripe",
+    "cms",
+    "tiny",
+    "silverdragon",
+    "silver",
+    "dragon"
+  ],
+  "authors": [
+    {
+      "name": "SilverDragon",
+      "homepage": "http://silverdragon.io"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "composer/installers": "*",
+    "silverstripe/framework": "~3.3"
+  },
+  "autoload": {
+    "classmap": ["tests/behat/"]
+  },
+  "minimum-stability": "dev"
+}
