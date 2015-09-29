@@ -1,7 +1,7 @@
 {
   "name": "silver-dragon/cms",
   "type": "silverstripe-module",
-  "description": "The SilverStripe Content Management System",
+  "description": "The SilverDragon Content Management System",
   "homepage": "http://silverdragon.io",
   "license": "BSD-3-Clause",
   "keywords": [
